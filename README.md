@@ -28,10 +28,13 @@ Sigo buscando conhecimento e oportunidades.
 -------------------------------------------------------------------------------
 Acel. Everis Eng. de Dados | Data Eng. for Everyone | REST API com Python/Flask
 ---------------------------|------------------------|--------------------------
-<img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/badges/Certificado DIO - Aceleração Everis-1.png" width="250" height="150"> | <img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/badges/Datacamp Certificate Data Engineering for Everyone-1.png" width="250" height="150">  | <img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/badges/Certificado DIO - Desenvolvimento Avançado Python com Flask e REST API-1.png" width="250" height="150">
+<img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/certificados/Certificado DIO - Aceleração Everis-1.png" width="250" height="150"> | <img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/certificados/Datacamp Certificate Data Engineering for Everyone-1.png" width="250" height="150">  | <img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/certificados/Certificado DIO - Desenvolvimento Avançado Python com Flask e REST API-1.png" width="250" height="150">
 
 
- 📫: | [Website](https://dodoaz.github.io) | [Linkedin](https://www.linkedin.com/in/douglas-dantas-306770173/) | [E-mail](douglasazevedopd@hotmail.com)
+ 📫 Onde me encontrar:
+ [Website](https://dodoaz.github.io)
+ [Linkedin](https://www.linkedin.com/in/douglas-dantas-306770173/)
+ E-mail: douglasazevedopd@hotmail.com
 
 <!--
 **DodoAz/DodoAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
