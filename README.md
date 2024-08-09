@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/DodoAz/DodoAz/main/badges/rest_python_flask.png" width="65" height="65">
 
 <h2 align="center"> Olá.
-Eu sou Douglas, técnico de eletrônica, graduando em engenharia de Controle e Automação e trabalho com Análise e Projetos de Sistemas.
+Eu sou Douglas, mestrando em Inteligência Computacional e Cientista de Dados.
 Bem-vindo ! </h1>
 
 
@@ -20,8 +20,6 @@ Já realizei pesquisas acadêmicas, trabalhei como suporte de programação, fui
 Mas desde que conheci a área de Dados e a interconexão com Automação de Fluxos de Decisão não me vejo atuando em outro segmento.
 
 Sigo buscando conhecimento e oportunidades.
-
-🌱 Estou atualmente estudando Projetos, Ciência de Dados, Cloud e Engenharia de Dados.
 
 ### Alguns Certificados:
 
